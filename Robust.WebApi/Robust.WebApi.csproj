@@ -19,8 +19,9 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Robust.Entities\Robust.Entities.csproj" />
+    <ProjectReference Include="..\Robust.DataAccess\Robust.DataAccess.csproj" />
     <ProjectReference Include="..\Robust.LoggerService\Robust.LoggerService.csproj" />
+    <ProjectReference Include="..\Robust.Models\Robust.Models.csproj" />
   </ItemGroup>
 
 </Project>
